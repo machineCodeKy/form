@@ -1,7 +1,7 @@
 body {
     background-image: url("img/bankRich.jpg");
 }
-p {
+p,label {
     color: white;
     font-size: 20px;
     text-shadow:
@@ -29,4 +29,7 @@ h1 {
 }
 fieldset{
     border: 0;
+}
+.password2 {
+    position: relative; right:300px; top:60px;
 }
