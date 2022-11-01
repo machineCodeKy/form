@@ -19,3 +19,11 @@ h1 {
         -0.07em 0 black,
         0 -0.07em black;
 }
+
+:valid {
+    border-color: green;
+}
+
+:invalid {
+    border-color: red;
+}
